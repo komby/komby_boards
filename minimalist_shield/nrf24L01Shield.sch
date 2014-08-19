@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.4">
+<eagle version="7.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -8927,7 +8927,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <sheet>
 <plain>
 <text x="165.1" y="-53.34" size="1.778" layer="91">.3</text>
-<text x="81.28" y="-53.34" size="2.54" layer="94">www.komby.com/rf_sheild</text>
+<text x="81.28" y="-53.34" size="2.54" layer="94">www.komby.com/rf_shield</text>
 </plain>
 <instances>
 <instance part="JP1" gate="A" x="2.54" y="50.8"/>
